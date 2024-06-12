@@ -1,12 +1,12 @@
-#SmartHomeHub
+# SmartHomeHub
 
-#Introduction
+# Introduction
 SmartHomeHub is a comprehensive web application designed to centralize and streamline the management of various smart home devices. The project aims to provide users with a unified interface to monitor and control their smart home gadgets, enhancing convenience and efficiency. This project was inspired by the growing complexity of managing multiple smart devices from different manufacturers.
 
 Deployed Site: SmartHomeHub
 Author: Yahya
 
-#Installation
+# Installation
 To run this project locally, follow these steps:
 
 Clone the repository:
@@ -44,7 +44,7 @@ git push origin feature/AmazingFeature
 
 Open a pull request.
 
-#Related Projects
+# Related Projects
 If you liked SmartHomeHub, you might also enjoy these projects:
 
 OpenHAB - A vendor and technology agnostic open source automation software for your home.
